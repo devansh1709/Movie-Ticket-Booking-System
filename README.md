@@ -50,8 +50,9 @@ spring.datasource.password=your_password
 ```
 
 4. Run the Spring Boot application
-```
+
 Server runs on:
+```
 http://localhost:8081
 ```
 
