@@ -44,12 +44,16 @@ CREATE DATABASE bms_db;
 ```
 
 3. Update `application.properties`:
+```
 spring.datasource.username=your_username
 spring.datasource.password=your_password
+```
 
 4. Run the Spring Boot application
+```
 Server runs on:
 http://localhost:8081
+```
 
 ---
 
