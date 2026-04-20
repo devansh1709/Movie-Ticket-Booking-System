@@ -41,7 +41,7 @@ Provides REST APIs for managing movies, shows, and bookings.
 2. Create a MySQL database:
 CREATE DATABASE bms_db;
 
-3. Update application.properties:
+3. Update `application.properties`:
 spring.datasource.username=your_username
 spring.datasource.password=your_password
 
@@ -51,13 +51,13 @@ http://localhost:8081
 
 ---
 
-##Testing
+## Testing
 - APIs tested using Postman
 - Import Postman collection (if provided)
 
 ---
 
-##Limitations / Future Improvements
+## Limitations / Future Improvements
 - No authentication (JWT)
 - No payment gateway integration
 - No concurrency handling for seat booking
