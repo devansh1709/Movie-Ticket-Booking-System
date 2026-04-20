@@ -39,7 +39,9 @@ Provides REST APIs for managing movies, shows, and bookings.
 1. Clone the repository  
 
 2. Create a MySQL database:
+```sql
 CREATE DATABASE bms_db;
+```
 
 3. Update `application.properties`:
 spring.datasource.username=your_username
