@@ -1,4 +1,4 @@
-# CineBook — Concurrent Movie Ticket Booking System
+# 🎬 CineBook — Concurrent Movie Ticket Booking System
 
 A production-grade backend system for movie ticket booking built with **Spring Boot 4** and **Java 21**.  
 Focuses on correctness under concurrency, JWT-secured APIs, and clean layered architecture.
